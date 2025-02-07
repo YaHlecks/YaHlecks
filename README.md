@@ -2,9 +2,11 @@
 - 👀 I’m interested in Programming and Cyber Security
 - 🌱 I’m currently learning Phyton and Database
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me DISCORD: Fynn
+- 📫 How to reach me DISCORD: _pusang.ligaw
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just a Straight Forward Person
+
+- 
 
 <!---
 YaHlecks/YaHlecks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
