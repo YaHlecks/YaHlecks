@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm France aka Yahlecks! 
+<h1 align="center">Hi, I'm YaHlecks! 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRsYWduNHp6dzVxZzE4cmRjMmt3YzVkZG5ib3M2aDZwYW8zN2FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU9n2d0wH5OYbRPr3N/giphy.gif" width="35">
 </h1>
 
 <p align="center">
 	<a href="https://github.com/YaHlecks"><img src="https://img.shields.io/github/followers/YaHlecks?label=Follow&style=social" /></a>
-	<a href="mailto:narukonaruko12@gmail.com"><img src="https://img.shields.io/badge/Email-pusang.ligaw-blue?style=flat-square&logo=gmail" /></a>
+	<a href="mailto:narukonaruko12@gmail.com"><img src="https://img.shields.io/badge/Email-narukonaruko12-blue?style=flat-square&logo=gmail" /></a>
 	<a href="https://discord.com/users/YOUR_DISCORD_ID_HERE"><img src="https://img.shields.io/badge/Discord-_schilien-7289DA?style=flat-square&logo=discord" /></a>
+	<a href="https://discord.com/users/_schilien"><img src="https://img.shields.io/badge/Discord-(username-link)-7289DA?style=flat-square&logo=discord" /></a>
 </p>
 
 <p align="center">
@@ -38,6 +39,6 @@
 </p>
 
 ## 📫 Connect with Me
-<a href="https://discord.com/users/_schilien">
-  <img src="https://img.shields.io/badge/Discord-_schilien-7289DA?style=flat-square&logo=discord" />
-</a>
+- 📧 **Email:** [narukonaruko12@gmail.com](mailto:narukonaruko12@gmail.com)  
+- 💬 **Discord (Permanent):** [Click Here](https://discord.com/users/YOUR_DISCORD_ID_HERE)  
+- 💬 **Discord (Username link):** [Click Here](https://discord.com/users/_schilien)  
