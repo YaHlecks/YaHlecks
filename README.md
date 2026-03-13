@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/YaHlecks"><img src="https://img.shields.io/github/followers/YaHlecks?label=Follow&style=social" /></a>
-	<a href="mailto:narukonaruko12@gmail.com"><img src="https://img.shields.io/badge/Email-narukonaruko12-blue?style=flat-square&logo=gmail" /></a>
+	<a href="mailto:france.francisco007@gmail.com"><img src="https://img.shields.io/badge/Email-narukonaruko12-blue?style=flat-square&logo=gmail" /></a>
 	<a href="https://discord.com/users/YOUR_DISCORD_ID_HERE"><img src="https://img.shields.io/badge/Discord-_schilien-7289DA?style=flat-square&logo=discord" /></a>
 	<a href="https://discord.com/users/_schilien"><img src="https://img.shields.io/badge/Discord-(username-link)-7289DA?style=flat-square&logo=discord" /></a>
 </p>
