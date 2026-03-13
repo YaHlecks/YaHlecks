@@ -39,6 +39,6 @@
 </p>
 
 ## 📫 Connect with Me
-- 📧 **Email:** [narukonaruko12@gmail.com](mailto:narukonaruko12@gmail.com)  
-- 💬 **Discord (Permanent):** [Click Here](https://discord.com/users/YOUR_DISCORD_ID_HERE)  
+- 📧 **Email:** [narukonaruko12@gmail.com](mailto:france.francisco007@gmail.com)  
+- 💬 **Discord (Permanent):** [Click Here](https://discord.com/users/_schilien)  
 - 💬 **Discord (Username link):** [Click Here](https://discord.com/users/_schilien)  
